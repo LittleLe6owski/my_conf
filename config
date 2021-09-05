@@ -1,0 +1,11 @@
+[bar/mybar]
+modules-right =date
+
+[module/date]
+type=internal/date
+date=%m-%d%
+
+time = %H:%M
+
+label = %date% %time%
+
