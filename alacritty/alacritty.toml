@@ -1,0 +1,14 @@
+[terminal.shell]
+program = "/bin/bash"
+
+[font]
+size = 15
+
+[window]
+opacity = 0.9
+
+[colors.primary]
+background = "#151719"
+foreground = "#ffffff"
+
+
